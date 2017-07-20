@@ -87,7 +87,27 @@ p {
   font-size: 20px;
 }
 
+.portfolio{
+  background-color: gray;
+}
+
 .imagep {
   width: 40%;
   height: 40%;
+}
+
+.home2 {
+  color: black;
+  position: absolute;
+  top: 15%;
+  right: 10%;
+  font-size: 25px;
+}
+
+.contact2 {
+  color: black;
+  position: absolute;
+  top: 20%;
+  right: 12%;
+  font-size: 25px;
 }
