@@ -1,6 +1,6 @@
 /*CSS for Peronsal Website with Git*/
 
-html {
+.homepage {
   background: url(jungle.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -15,11 +15,9 @@ html {
   color: white;
 }
 
-
 p {
   color: white
 }
-
 
 .intro1 {
   position: absolute;
@@ -30,12 +28,26 @@ p {
   font-size: 30px;
 }
 
-
-
 .intro2 {
   position: absolute;
   left: 5%;
   top: 17%;
   color: white;
   font-size: 20px;
+}
+
+.portfolio {
+  color: white;
+  position: absolute;
+  top: 15%;
+  right: 5%;
+  font-size: 25px;
+}
+
+.contact {
+  color: white;
+  position: absolute;
+  top: 20%;
+  right: 6%;
+  font-size: 25px;
 }
