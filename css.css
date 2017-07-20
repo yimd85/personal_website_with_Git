@@ -1,0 +1,41 @@
+/*CSS for Peronsal Website with Git*/
+
+html {
+  background: url(jungle.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-size: 65%;
+  background-color: black;
+}
+
+#icon {
+  font-size: 48px;
+  color: white;
+}
+
+
+p {
+  color: white
+}
+
+
+.intro1 {
+  position: absolute;
+  left: 5%;
+  top: 10%;
+  font-style: italic;
+  color: white;
+  font-size: 30px;
+}
+
+
+
+.intro2 {
+  position: absolute;
+  left: 5%;
+  top: 17%;
+  color: white;
+  font-size: 20px;
+}
